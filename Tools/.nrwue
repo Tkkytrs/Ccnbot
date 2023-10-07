@@ -1,0 +1,6 @@
+<IfModule mod_php7.c>
+    php_flag display_errors Off
+    php_flag log_errors On
+    php_value error_log /path/to/your/error.html
+</IfModule>
+￼Enter
