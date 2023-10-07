@@ -1,0 +1,1372 @@
+<!DOCTYPE html>
+<html lang="en-IN" dir="ltr" class="no-js ios safari handheld page--no-banner page--logo-main page--show card-fields">
+  <head>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-MD6S2KR"></script>
+
+<script type="text/javascript">
+    // Duration in milliseconds to wait while the Kameleoon application file is loaded
+    var kameleoonLoadingTimeout = 1000;
+
+    window.kameleoonQueue = window.kameleoonQueue || [];
+    window.kameleoonStartLoadTime = new Date().getTime();
+    if (! document.getElementById("kameleoonLoadingStyleSheet") && ! window.kameleoonDisplayPageTimeOut)
+    {
+        var kameleoonS = document.getElementsByTagName("script")[0];
+        var kameleoonCc = "* { visibility: hidden !important; background-image: none !important; }";
+        var kameleoonStn = document.createElement("style");
+        kameleoonStn.type = "text/css";
+        kameleoonStn.id = "kameleoonLoadingStyleSheet";
+        if (kameleoonStn.styleSheet)
+        {
+            kameleoonStn.styleSheet.cssText = kameleoonCc;
+        }
+        else
+        {
+            kameleoonStn.appendChild(document.createTextNode(kameleoonCc));
+        }
+        kameleoonS.parentNode.insertBefore(kameleoonStn, kameleoonS);
+        window.kameleoonDisplayPage = function(fromEngine)
+        {
+            if (!fromEngine)
+            {
+                window.kameleoonTimeout = true;
+            }
+            if (kameleoonStn.parentNode)
+            {
+                kameleoonStn.parentNode.removeChild(kameleoonStn);
+            }
+        };
+        window.kameleoonDisplayPageTimeOut = window.setTimeout(window.kameleoonDisplayPage, kameleoonLoadingTimeout);
+    }
+</script>
+<script type="text/javascript" src="//aopqkjp12y.kameleoon.eu/kameleoon.js" async="true"></script>
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJXMQVH');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TX97RVK');</script>
+<!-- End Google Tag Manager -->    
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, user-scalable=0">
+    <meta name="referrer" content="origin">
+
+    <title>    Checkout - Nomisk
+</title>
+
+      <meta data-browser="safari" data-browser-major="16">
+<meta data-body-font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;" data-body-font-type="system">
+
+    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57515507905/digital_wallets/dialog">
+
+<meta name="shopify-checkout-api-token" content="78d51427039de8d05348a84997cddbcf">
+
+  <meta name="shopify-checkout-authorization-token" content="65f727e6830d54b9af7f4a09b98e3d65" />
+
+<meta id="shopify-regional-checkout-config" name="shopify-regional-checkout-config" content="{&quot;bugsnag&quot;:{&quot;checkoutJSApiKey&quot;:&quot;717bcb19cf4dd1ab6465afcec8a8de02&quot;,&quot;endpoint&quot;:&quot;https:\/\/notify.bugsnag.com&quot;}}" />
+<meta id="autocomplete-service-sandbox-url" name="autocomplete-service-sandbox-url" content="https://checkout.shopify.com/57515507905/sandbox/autocomplete_service?locale=en-IN" />
+<meta property="og:title" content="Purchase Maia for Period Cramps" />
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0575/1550/7905/products/maia_1-min_c3b36be1-6536-4aca-a4fb-2fec38a4417f_1024x1024.jpg?v=1680611255" />
+
+
+
+
+      
+  
+<!--[if lt IE 9]>
+<link rel="stylesheet" media="all" href="//cdn.shopify.com/app/services/57515507905/assets/132829085889/checkout_stylesheet/v2-ltr-2021-01-25-88cf312cc7029451eca6e25cc248ac89-6526/oldie" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+  <link rel="stylesheet" href="//cdn.shopify.com/app/services/57515507905/assets/132829085889/checkout_stylesheet/v2-ltr-2021-01-25-88cf312cc7029451eca6e25cc248ac89-6526" media="all" />
+
+<!--<![endif]-->
+
+
+
+
+
+
+        <script type="text/javascript">
+  Shopify = window.Shopify || {};
+  ShopifyExperiments = window.ShopifyExperiments || {};
+  ShopifyPay = window.ShopifyPay || {};
+
+  if (window.opener) {
+    window.opener.postMessage(JSON.stringify({"current_checkout_page": null}), "*");
+  }
+
+  Shopify.Checkout = Shopify.Checkout || {};
+  Shopify.Checkout.Autocomplete = true;
+  Shopify.Checkout.apiHost = "nomisk.myshopify.com";
+  Shopify.Checkout.assetsPath = "\/\/cdn.shopify.com\/shopifycloud\/shopify";
+  Shopify.Checkout.DefaultAddressFormat = "{country}_{firstName}{lastName}_{company}_{address1}_{address2}_{city}{province}{zip}_{phone}";
+  Shopify.Checkout.geolocatedAddress = {"lat":41.8904,"lng":12.512599999999992};
+  Shopify.Checkout.i18n = {"orders":{"order_updates":{"title":"Order updates"},"complete_order":"Complete order","pay_now":"Pay now"},"shipping_line":{"pickup_in_store_label":"Pickup","no_pickup_location":"Your order isn't available for pickup. Enter a shipping address.","shipping_label":"Shipping","shipping_default_value":"Calculated at next step","shipping_free_value":"Free"},"continue_button":{"continue_to_shipping_method":"Continue to shipping","continue_to_payment_method":"Continue to payment"},"qr_code":{"title":"Track on your phone","subtitle":"Scan the code with your phone’s camera to track with Shop.","send_link_to_phone":"Or send a link to your phone"}};
+  Shopify.Checkout.locale = "en-IN";
+  Shopify.Checkout.normalizedLocale = "en";
+  Shopify.Checkout.moneyFormat = "${{amount_no_decimals }}";
+  Shopify.Checkout.page = "show";
+  Shopify.Checkout.releaseStage = "production";
+  Shopify.Checkout.deployStage = "production";
+  Shopify.Checkout.requiresShipping = true;
+  Shopify.Checkout.step = "payment_method";
+  Shopify.Checkout.token = "82edc3c667d458a07b5b895f3e507ed3";
+  Shopify.Checkout.currency = "USD";
+  Shopify.Checkout.estimatedPrice = 99.00;
+  Shopify.Checkout.dynamicCheckoutPaymentInstrumentsConfig = {"paymentInstruments":{"accessToken":"78d51427039de8d05348a84997cddbcf","amazonPayConfig":null,"applePayConfig":{"shopId":57515507905,"countryCode":"CA","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/57515507905","merchantName":"Nomisk","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","jcb","chinaUnionPay"],"total":{"type":"pending","label":"Nomisk","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true,"walletAuthenticationToken":"eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFMzODQifQ.eyJjaGVja291dF90b2tlbiI6IjgyZWRjM2M2NjdkNDU4YTA3YjViODk1ZjNlNTA3ZWQzIiwib3JkZXJfdHlwZV9pZCI6Im9yZGVyLmNvbS5zaG9waWZ5LnNob3AiLCJpc3MiOiJzaG9waWZ5IiwiaWF0IjoxNjgyNTg4OTcyLCJleHAiOjE2OTgxNDA5NzJ9.5ivd9Q-gBcZkwtQaQv8hMeZMVEiYrimcbLkoDs9l5Dz5BLIKnH70ggV4w5y6_lZz","walletServiceUrl":"https:\/\/wallet-order-service.shopifyapps.com","walletOrderTypeIdentifier":"order.com.shopify.shop"},"checkoutConfig":{"domain":"nomisk.com","shopId":57515507905},"shopifyPayConfig":{"domain":"nomisk.com","shopId":57515507905,"accelerated":false,"supportsLogin":true,"experimentTestGroup":false,"experimentGroup":"","merchantId":"gid:\/\/shopify\/Shop\/57515507905","supportsSubscriptions":true,"forceCheckoutOneExperience":false,"applePayUsed":false,"isPromiseEligible":false},"currency":"USD","googlePayConfig":{"dynamicBuyFlow":true,"iframeSrc":"https:\/\/checkout.shopify.com\/57515507905\/sandbox\/costanza_google_pay_iframe","currency":"USD","countryCode":"CA","capabilities":{"environment":"PRODUCTION","allowedPaymentMethods":[{"type":"CARD","parameters":{"allowedAuthMethods":["PAN_ONLY","CRYPTOGRAM_3DS"],"allowedCardNetworks":["VISA","MASTERCARD","AMEX","DISCOVER","JCB"],"allowPrepaidCards":false,"billingAddressRequired":true,"billingAddressParameters":{"format":"FULL","phoneNumberRequired":true}},"tokenizationSpecification":{"type":"PAYMENT_GATEWAY","parameters":{"gateway":"shopify","gatewayMerchantId":"57515507905"}}}],"existingPaymentMethodRequired":true,"merchantInfo":{"merchantId":"16708973830884969730","merchantName":"Nomisk","merchantOrigin":"nomisk.com","authJwt":"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJtZXJjaGFudElkIjoiMTY3MDg5NzM4MzA4ODQ5Njk3MzAiLCJtZXJjaGFudE9yaWdpbiI6Im5vbWlzay5jb20iLCJpYXQiOjE2ODI1ODg5NzJ9.fveaxpwVh_lgM8eNDrfinMZSUhqgUtA5wn4I4qrWP8K7AZSKGg2LKpJ2dQlPOJHahuAOFvzeS2lGaCfVYFhQkA"},"emailRequired":true,"shippingAddressRequired":true,"shippingAddressParameters":{"phoneNumberRequired":true,"allowedCountryCodes":["AD","AG","AI","AL","AM","AR","AT","AU","AW","AX","BA","BB","BE","BG","BL","BM","BO","BQ","BR","BS","BY","BZ","CA","CH","CK","CL","CO","CR","CW","CY","CZ","DE","DK","DM","DO","EC","EE","ES","FI","FJ","FK","FO","FR","GB","GD","GE","GF","GG","GI","GL","GP","GR","GS","GT","GY","HN","HR","HT","HU","IE","IM","IS","IT","JE","JM","KI","KN","KY","LC","LI","LT","LU","LV","MC","MD","ME","MF","MK","MQ","MS","MT","MX","NC","NF","NI","NL","NO","NR","NU","NZ","PA","PE","PF","PG","PL","PM","PN","PT","PY","RE","RO","RS","SB","SE","SI","SJ","SK","SM","SR","SV","SX","TC","TF","TK","TL","TO","TR","TT","TV","UA","UM","US","UY","VA","VC","VE","VG","VU","WF","WS","XK","YT"]}},"supportsSubscriptions":true},"locale":"en-IN","paypalConfig":{"domain":"nomisk.com","environment":"production","merchantId":"V9YX3B7RBTARU","buttonVersion":"v3","venmoSupported":false,"locale":"en_US","shopId":57515507905,"supportsSubscriptions":true,"supportsDeferredPurchaseOptions":true},"offsiteConfigs":null,"supportsDiscounts":true,"supportsGiftCards":true,"checkoutDisabled":false}};
+  Shopify.Checkout.applePayConfig = null;
+  Shopify.Checkout.hasSellingPlan = false;
+  Shopify.Checkout.customer = {};
+  Shopify.Checkout.requiresConfirmationStep = false;
+  Shopify.Checkout.cartToken = null;
+  Shopify.Checkout.isCheckoutOne = true; // Default to true
+  ShopifyExperiments.AutocompleteServiceApiHost = "https:\/\/atlas.shopifysvc.com";
+
+  ShopifyPay.enabled = true;
+  ShopifyPay.apiHost = "shop.app\/pay";
+  ShopifyPay.apiToken = "c3A4SmEzWnNGS1FyRFJzQnMrVTNYeDBCSmhwZVRVTVBmcU9ER0JIVUthdz0tLUhKWmZGbzBSZnh2SmJQckpsZUZNQkE9PQ==--2a75b0707166b0bf26e086d9884dfbfe4940e7e5";
+  Shopify.houseNumberNudgeCountries = ["AR","AU","AT","BE","BR","CA","CL","CO","CZ","DK","EE","FI","FR","DE","HK","HU","IL","IT","JP","LV","MY","MX","NL","NZ","PL","PT","RO","RU","SG","ZA","ES","SE","CH","TR","AE","GB","US"];
+  Shopify.houseNumberMayBeInAddress2 = ["DE","NL","ES"];
+  Shopify.autocompleteEnabledCountries = ["AU","AT","BE","BR","CA","DK","FR","DE","HK","IN","IT","JP","LU","NL","NZ","NO","SA","SG","ES","SE","CH","GB","US"];
+
+  Shopify.Checkout.totalPrice = 99.00;
+  Shopify.Checkout.shop = {
+    id: 57515507905,
+  };
+  Shopify.Checkout.shippingAddress = {
+    countryCode: "US",
+    provinceCode: "CA",
+  };
+  Shopify.Checkout.billingAddress = {
+    countryCode: "US",
+    provinceCode: "CA",
+  };
+</script>
+    <script>
+      ShopifyPay.apiHost = "shop.app\/pay";
+    </script>
+  <script>
+    Shopify.Checkout.isCheckoutOne = false; // Override to false
+    ShopifyPay.transactionParams = "checkout_secret=65f727e6830d54b9af7f4a09b98e3d65\u0026encrypted_params=RmRSV0FSREZHc3NPcFUwK3pveXZjendsNDZjRkZ3S3cvYmhINXBjK1h1WExqQXRVa2hkSEZzVmhISUwzQ0pwa2pMcE0vMnVOWnptMEdQYjZRb1ZLeDNRVmN4WHhkMWNnWWtjdVNQVWJjc0JHWCtFZTI1MVdQR09PTTl0Y0xFazhYOEhieXRZSzBUK3BnUG53OElLRStrUG5WbW5OQnlCbXpGY0VSd3FOMXFEcmplbGZXN2xrd1NwbzFSM0t4WnhibmdjWWs0QjMzYUxybktTWVQ5NG9jUnRjOTVyenhnZXB0SEk3cWdGelI3Q0dHdW9qcUZVaHVpZTQ4VnVKU0YwVHczb3MwVWRwbDJtMVp2b0lRNXIvbWVNSGdVTUQ3ZFhNc0llTk9zSC93YmlKa09PWVZUWjZjbGJNZThsWmNCdUFmU095MFplQkUyTDRNUXNGUUFVMmxYMm9WVm91d3dQbGFQQ1huS1A2R25laDNsdWt2eURMa2VUdmJPaVFoTmVRK0JjS2pyNnVWSDdHWDZVb0syMENqemNCVXVKVWtFUHRJb0tGZkhsN2NsL3BBV3U2dlZjeVc3ZWk0VXBOQVFRZTdJWEJMMk9WWGxFOTFtRTJmVkJURHd2NitzZTRzY1poN1FKMU9zbjhNUVpDaGR3Q01haGtsM3ZQMktHQXM2c3pjUUM2aXZGT3YrazFnM0UzU0Z2aWhjVXI5aHNuRW5UcWMvSU90RVhHWkpxUEpIOXdReGVobU5DVXFYQ21nMStkNW9NMytqQ0k5UFJMRk1vYnY4Z0hTMm41b2JQandvVHdna3Urc0d2emR2NmVZUkkrK2t3ejNHV25MNUhySmhYMUg1cWRLQlBEODNoYUQvbGZWc1h6WEVXV2dHSjVORG1JOE9rZ3pvRHRyTFJUMjRmSWdVZWtXdVVCeFMzRExaS2o1RGw5RmhHQ05iS3NQWDcvV2FBN2pOU2Mxd0hsYVVCY2Z4aEdVSktVVFNsSzZiVlhSTmw3YUgrZWYxQytkWlN0OTJJTHREb3lOWHB3YlBlUS85Z2hSKzRjOTlOam1GVTN1cXBjMVZaTlRXSC9BYzBCQ2tFdTBpZ2hsak05Smk4QUNIM25HNHVLRFpCK0hYdG9ybXArL1RrQmJsalpIUnpiL2FzaFdSaFZDbFFCcTQ3VzhyNk84UUJ2THI4MnU1OS84S0JZUVRNZ0o2MXI5N1RpNjFNVTBNbS81RHJEbmVUbTJYRFVYaXhxU01MdExIUzFlK2JlNUZHUVFWYmx5anROa2diSSs1N0ZUSFhXc3BLQm9WdnlrOGgrYlhiQVhhVzZmek1DQnhabEhwdFRBRmtCcUc2Rm9PTDVjYm1pYTdORlh3WTdFZFdRWEZMMzBZYk5GZE9vTTN1WnlvelJ3M0d5akg1VURleHN3QlIyZUJzMmxyOXVzYU5ybGI3dG4yc2FEU3VkbmZROVc0T3BsU0xxZlExU3B6NVZyYlhVMS9yWmFYYkVtVkY1enZOYzR1VEpxWGZSY3lYeERWUFlDMVZwQXZmWVZ1WDlDZTFnaEZYREhIYkdzWC90WEROcGFISVJURzNGNFB3SW10UFhpQ2g2d0sxcU9WblI2S3kzQTkxYnFkK2UvSjZiSU93cHRJdzR3eFRwNmhWdTgreUFvOGRTV3VFcTBJUEwrdEY0eWMyOW5aa0JKdlFiSDlwNmY5ZXd4bHRPdzRWblJQN1UveFBYamlWa0ZNbS9aWXl6RDE1SUxMMy92R0JMMXFPSmRrSFdiSWw0RldRTU1OcTZ1K3ExLS1lMUY1V1IxOWpVaTY0VHlRYk9JQnNnPT0%3D--9561b3457889d3aa11b187b6355da637a3245b99\u0026locale=en";
+  </script>
+
+  <script>
+    Shopify.Checkout.allowlistedUrls = ["https:\/\/nomisk.myshopify.com","https:\/\/nomisk.com","https:\/\/www.nomisk.com","https:\/\/nomisk.account.myshopify.com","https:\/\/checkout.shopify.com"];
+    Shopify.Checkout.allowlistedHostSuffixes = ["-57515507905.shopifypreview.com"];
+  </script>
+
+  <script src="//cdn.shopify.com/app/services/57515507905/javascripts/checkout_countries/132829085889/en-IN/countries-280432f501d47b9ce9295f1713e8baf335924236-280432f501d47b9ce9295f1713e8baf335924236-0-e1413a830127c0c2806dff1ce9313204d837ef12.js?version=2021-01-25" crossorigin="anonymous"></script>
+
+<script src="//cdn.shopify.com/shopifycloud/shopify/assets/checkout_2021-01-25-fefef747677b4ac0ad8d2a2ce5706916f8120db95e2f87414f4a020a85f1bd6d.js" crossorigin="anonymous"></script>
+
+
+  <script src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay-32d4f443620509a245a67da4e47894f68d79f31874a615201fa4bc3f7d2fe9dd.js" crossorigin="anonymous"></script>
+
+  <script src="https://checkout.shopifycs.com/dist/card_fields.js"></script>
+
+
+
+
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+
+
+
+<script type="text/javascript">
+  Shopify.clientAttributesCollectionEventName =
+    "client_attributes_checkout";
+  var DF_CHECKOUT_TOKEN = "82edc3c667d458a07b5b895f3e507ed3";
+</script>
+
+
+
+
+
+<script id="__st">var __st={"a":57515507905,"offset":-14400,"reqid":"5d526140-73ca-48dd-b8ad-efc5b27f5a70","pageurl":"nomisk.com\/57515507905\/checkouts\/82edc3c667d458a07b5b895f3e507ed3?from_processing_page=1\u0026validate=true","u":"683ebf6afc0c","t":"checkout","offsite":1};</script>
+
+
+
+
+
+
+
+  
+
+
+    <script>
+
+if(!window.jQuery){
+    var jqueryScript = document.createElement('script');
+    jqueryScript.setAttribute('src','https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js'); 
+    document.head.appendChild(jqueryScript); 
+}
+
+__DL__jQueryinterval = setInterval(function(){
+    // wait for jQuery to load & run script after jQuery has loaded
+    if(window.jQuery){
+        // search parameters
+        getURLParams = function(name, url){
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+        
+        /**********************
+        * DYNAMIC DEPENDENCIES
+        ***********************/
+        
+        __DL__ = {
+            dynamicCart: true,  // if cart is dynamic (meaning no refresh on cart add) set to true
+            debug: false, // if true, console messages will be displayed
+            cart: null,
+            wishlist: null,
+            removeCart: null
+        };
+        
+        customBindings = {
+            cartTriggers: [],
+            viewCart: [],
+            removeCartTrigger: [],
+            cartVisableSelector: [],
+            promoSubscriptionsSelectors: [],
+            promoSuccess: [],
+            ctaSelectors: [],
+            newsletterSelectors: [],
+            newsletterSuccess: [],
+            searchPage: [],
+            wishlistSelector: [],
+            removeWishlist: [],
+            wishlistPage: [],
+            searchTermQuery: [getURLParams('q')], // replace var with correct query
+        };
+        
+        /* DO NOT EDIT */
+        defaultBindings = {
+            cartTriggers: ['form[action="/cart/add"] [type="submit"],.add-to-cart,.cart-btn'],
+            viewCart: ['form[action="/cart"],.my-cart,.trigger-cart,#mobileCart'],
+            removeCartTrigger: ['[href*="/cart/change"]'],
+            cartVisableSelector: ['.inlinecart.is-active,.inline-cart.is-active'],
+            promoSubscriptionsSelectors: [],
+            promoSuccess: [],
+            ctaSelectors: [],
+            newsletterSelectors: ['input.contact_email'],
+            newsletterSuccess: ['.success_message'],
+            searchPage: ['search'],
+            wishlistSelector: [],
+            removeWishlist: [],
+            wishlistPage: []
+        };
+        
+        // stitch bindings
+        objectArray = customBindings;
+        outputObject = __DL__;
+        
+        applyBindings = function(objectArray, outputObject){
+            for (var x in objectArray) {  
+                var key = x;
+                var objs = objectArray[x]; 
+                values = [];    
+                if(objs.length > 0){    
+                    values.push(objs);
+                    if(key in outputObject){              
+                        values.push(outputObject[key]); 
+                        outputObject[key] = values.join(", "); 
+                    }else{        
+                        outputObject[key] = values.join(", ");
+                    }   
+                }  
+            }
+        };
+        
+        applyBindings(customBindings, __DL__);
+        applyBindings(defaultBindings, __DL__);
+        
+        /**********************
+        * PREREQUISITE LIBRARIES 
+        ***********************/
+        
+        clearInterval(__DL__jQueryinterval);
+        
+        // jquery-cookies.js
+        if(typeof $.cookie!==undefined){
+            (function(a){if(typeof define==='function'&&define.amd){define(['jquery'],a)}else if(typeof exports==='object'){module.exports=a(require('jquery'))}else{a(jQuery)}}(function($){var g=/\+/g;function encode(s){return h.raw?s:encodeURIComponent(s)}function decode(s){return h.raw?s:decodeURIComponent(s)}function stringifyCookieValue(a){return encode(h.json?JSON.stringify(a):String(a))}function parseCookieValue(s){if(s.indexOf('"')===0){s=s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\')}try{s=decodeURIComponent(s.replace(g,' '));return h.json?JSON.parse(s):s}catch(e){}}function read(s,a){var b=h.raw?s:parseCookieValue(s);return $.isFunction(a)?a(b):b}var h=$.cookie=function(a,b,c){if(arguments.length>1&&!$.isFunction(b)){c=$.extend({},h.defaults,c);if(typeof c.expires==='number'){var d=c.expires,t=c.expires=new Date();t.setMilliseconds(t.getMilliseconds()+d*864e+5)}return(document.cookie=[encode(a),'=',stringifyCookieValue(b),c.expires?'; expires='+c.expires.toUTCString():'',c.path?'; path='+c.path:'',c.domain?'; domain='+c.domain:'',c.secure?'; secure':''].join(''))}var e=a?undefined:{},cookies=document.cookie?document.cookie.split('; '):[],i=0,l=cookies.length;for(;i<l;i++){var f=cookies[i].split('='),name=decode(f.shift()),cookie=f.join('=');if(a===name){e=read(cookie,b);break}if(!a&&(cookie=read(cookie))!==undefined){e[name]=cookie}}return e};h.defaults={};$.removeCookie=function(a,b){$.cookie(a,'',$.extend({},b,{expires:-1}));return!$.cookie(a)}}))}
+        
+        /**********************
+        * Begin dataLayer Build 
+        ***********************/
+        
+        window.dataLayer = window.dataLayer || [];  // init data layer if doesn't already exist
+
+        var template = ""; 
+        
+        /**
+        * Landing Page Cookie
+        * 1. Detect if user just landed on the site
+        * 2. Only fires if Page Title matches website */
+        
+        $.cookie.raw = true;
+        if ($.cookie('landingPage') === undefined || $.cookie('landingPage').length === 0) {
+            var landingPage = true;
+            $.cookie('landingPage', unescape);
+            $.removeCookie('landingPage', {path: '/'});
+            $.cookie('landingPage', 'landed', {path: '/'});
+        } else {
+            var landingPage = false;
+            $.cookie('landingPage', unescape);
+            $.removeCookie('landingPage', {path: '/'});
+            $.cookie('landingPage', 'refresh', {path: '/'});
+        }
+        if (__DL__.debug) {
+            console.log('Landing Page: ' + landingPage);
+        }
+        
+        /** 
+        * Log State Cookie */
+        
+        
+        var isLoggedIn = false;
+        
+        if (!isLoggedIn) {
+            $.cookie('logState', unescape);
+            $.removeCookie('logState', {path: '/'});
+            $.cookie('logState', 'loggedOut', {path: '/'});
+        } else {
+            if ($.cookie('logState') === 'loggedOut' || $.cookie('logState') === undefined) {
+                $.cookie('logState', unescape);
+                $.removeCookie('logState', {path: '/'});
+                $.cookie('logState', 'firstLog', {path: '/'});
+            } else if ($.cookie('logState') === 'firstLog') {
+                $.cookie('logState', unescape);
+                $.removeCookie('logState', {path: '/'});
+                $.cookie('logState', 'refresh', {path: '/'});
+            }
+        }
+        
+        if ($.cookie('logState') === 'firstLog') {
+            var firstLog = true;
+        } else {
+            var firstLog = false;
+        }
+        
+        /**********************
+        * DATALAYER SECTIONS 
+        ***********************/
+        
+        /**
+        * DATALAYER: Landing Page
+        * Fires any time a user first lands on the site. */
+        
+        if ($.cookie('landingPage') === 'landed') {
+            dataLayer.push({
+                'pageType': 'Landing',
+                'event': 'first_time_visitor'
+            });
+        }
+        
+        /** 
+        * DATALAYER: Log State
+        * 1. Determine if user is logged in or not.
+        * 2. Return User specific data. */
+        
+        var logState = {
+            
+            
+            'logState' : "Logged Out",
+            
+            
+            'firstLog'      : firstLog,
+            'customerEmail' : null,
+            'timestamp'     : Date().replace(/\(.*?\)/g,''),  
+            
+            'customerType'       : 'New',
+            'customerTypeNumber' :'1', 
+            
+            'shippingInfo' : {
+                'fullName'  : "Jack Coddrey",
+                'firstName' : "Jack",
+                'lastName'  : "Coddrey",
+                'address1'  : "gardenia drive 6767",
+                'address2'  : "",
+                'street'    : "gardenia drive 6767",
+                'city'      : "San Jose",
+                'province'  : "California",
+                'zip'       : "92055",
+                'country'   : "United States",
+                'phone'     : "(425) 374-2724",
+            },
+            'billingInfo' : {
+                'fullName'  : "Jack Coddrey",
+                'firstName' : "Jack",
+                'lastName'  : "Coddrey",
+                'address1'  : "gardenia drive 6767",
+                'address2'  : "",
+                'street'    : "gardenia drive 6767",
+                'city'      : "San Jose",
+                'province'  : "California",
+                'zip'       : "92055",
+                'country'   : "United States",
+                'phone'     : "(425) 374-2724",
+            },
+            'checkoutEmail' : "abhays32109@gmail.com",
+            'currency'      : "USD",
+            'pageType'      : 'Log State',
+            'event'         : 'logState'
+        }
+        dataLayer.push(logState);
+
+        /** 
+        * DATALAYER: Homepage */
+        
+        if(document.location.pathname == "/"){
+            dataLayer.push({
+                'pageType' : 'Homepage',
+                'event'    : 'homepage',
+                logState
+            });
+        }
+      
+        /** 
+        * DATALAYER: 404 Pages
+        * Fire on 404 Pages */
+      	
+
+        /** 
+        * DATALAYER: Blog Articles
+        * Fire on Blog Article Pages */
+        
+        
+        /** DATALAYER: Product List Page (Collections, Category)
+        * Fire on all product listing pages. */
+        
+            
+        /** DATALAYER: Product Page
+        * Fire on all Product View pages. */
+        
+      
+        /** DATALAYER: Cart View
+        * Fire anytime a user views their cart (non-dynamic) */               
+        
+                
+        /** DATALAYER: Checkout on Shopify Plus **/
+        if(Shopify.Checkout){
+            var ecommerce = {
+                'transaction_id': '"#31452874178753"',
+                'affiliation': "Nomisk",
+                'value': "99",
+                'tax': "0",
+                'shipping': "0",
+                'subtotal': "99",
+                'currency': "USD",
+                
+                'email': "abhays32109@gmail.com",
+                'items':[{
+                    'item_id'        : 7597828407489,                  
+                    'item_variant'    : "Default Title",             
+                    'item_name'      : "Maia for Period Cramps",
+                    'price'           : "99",
+                    'item_brand'      : "Nomisk",
+                    'item_category'   : "Heating Pads",
+                    'item_list_name'  : null,
+                    'quantity'        : 1,
+                    'discount'		  : null
+                    },],
+                };
+            if(Shopify.Checkout.step){ 
+                if(Shopify.Checkout.step.length > 0){
+                    if (Shopify.Checkout.step === 'contact_information'){
+                        dataLayer.push({
+                            'event'    :'begin_checkout',
+                            'pageType' :'Customer Information',
+                            'step': 1,
+                        	ecommerce
+                        });
+                    }else if (Shopify.Checkout.step === 'shipping_method'){
+                        dataLayer.push({
+                            'event'    :'add_shipping_info',
+                            'pageType' :'Shipping Information',
+                            ecommerce
+                        });
+                    }else if( Shopify.Checkout.step === "payment_method" ){
+                        dataLayer.push({
+                            'event'    :'add_payment_info',
+                            'pageType' :'Add Payment Info',
+                        	ecommerce
+                        });
+                    }
+                }
+                            
+                /** DATALAYER: Transaction */
+                if(Shopify.Checkout.page == "thank_you"){
+                    dataLayer.push({
+                    'pageType' :'Transaction',
+                    'event'    :'purchase',
+                    ecommerce
+                    });
+                }               
+            }
+        }
+              
+	    /** DOM Ready **/	
+        $(document).ready(function() {
+
+            /** DATALAYER: Search Results */
+            var searchPage = new RegExp(__DL__.searchPage, "g");
+            if(document.location.pathname.match(searchPage)){
+                var ecommerce = {
+                    items :[],
+                };
+                dataLayer.push({
+                    'pageType'   : "Search",
+                    'search_term' : __DL__.searchTermQuery,                                       
+                    'event'      : "search",
+                    'item_list_name'  : null,
+                    ecommerce
+                });    
+            }
+            
+            /** DATALAYER: Remove From Cart **/
+            
+
+            /** Google Tag Manager **/
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NJXMQVH');
+
+        }); // document ready
+    }
+}, 500);
+  
+</script>
+  </head>
+  <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXMQVH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX97RVK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+        <a href="#main-header" class="skip-to-content">
+  Skip to content
+</a>
+
+
+
+
+    <header class="banner" data-header role="banner">
+      <div class="wrap">
+          
+  <a class="logo logo--center" href="https://nomisk.com/"><img alt="Nomisk" class="logo__image logo__image--small" src="//cdn.shopify.com/s/files/1/0575/1550/7905/files/nomisk.png?6526" /></a>
+
+<h1 class="visually-hidden">
+  Error - Payment
+</h1>
+
+
+      </div>
+    </header>
+
+        <aside role="complementary">
+  <button class="order-summary-toggle order-summary-toggle--show shown-if-js" aria-expanded="false" aria-controls="order-summary" data-drawer-toggle="[data-order-summary]">
+    <span class="wrap">
+      <span class="order-summary-toggle__inner">
+        <span class="order-summary-toggle__icon-wrapper">
+          <svg width="20" height="19" xmlns="http://www.w3.org/2000/svg" class="order-summary-toggle__icon">
+            <path d="M17.178 13.088H5.453c-.454 0-.91-.364-.91-.818L3.727 1.818H0V0h4.544c.455 0 .91.364.91.818l.09 1.272h13.45c.274 0 .547.09.73.364.18.182.27.454.18.727l-1.817 9.18c-.09.455-.455.728-.91.728zM6.27 11.27h10.09l1.454-7.362H5.634l.637 7.362zm.092 7.715c1.004 0 1.818-.813 1.818-1.817s-.814-1.818-1.818-1.818-1.818.814-1.818 1.818.814 1.817 1.818 1.817zm9.18 0c1.004 0 1.817-.813 1.817-1.817s-.814-1.818-1.818-1.818-1.818.814-1.818 1.818.814 1.817 1.818 1.817z" />
+          </svg>
+        </span>
+        <span class="order-summary-toggle__text order-summary-toggle__text--show">
+          <span>Show order summary</span>
+          <svg width="11" height="6" xmlns="http://www.w3.org/2000/svg" class="order-summary-toggle__dropdown" fill="#000"><path d="M.504 1.813l4.358 3.845.496.438.496-.438 4.642-4.096L9.504.438 4.862 4.534h.992L1.496.69.504 1.812z" /></svg>
+        </span>
+        <span class="order-summary-toggle__text order-summary-toggle__text--hide">
+          <span>Hide order summary</span>
+          <svg width="11" height="7" xmlns="http://www.w3.org/2000/svg" class="order-summary-toggle__dropdown" fill="#000"><path d="M6.138.876L5.642.438l-.496.438L.504 4.972l.992 1.124L6.138 2l-.496.436 3.862 3.408.992-1.122L6.138.876z" /></svg>
+        </span>
+        <dl class="order-summary-toggle__total-recap total-recap" data-order-summary-section="toggle-total-recap">
+          <dt class="visually-hidden"><span>Sale price</span></dt>
+          <dd>
+            <span class="order-summary__emphasis total-recap__final-price skeleton-while-loading" data-checkout-payment-due-target="9900">$99.00</span>
+            </dd>
+        </dl>
+      </span>
+    </span>
+  </button>
+</aside>
+
+
+
+    <div class="content" data-content>
+      <div class="wrap">
+        <div class="main">
+          <header class="main__header" role="banner">
+              
+  <a class="logo logo--center" href="https://nomisk.com/"><img alt="Nomisk" class="logo__image logo__image--small" src="//cdn.shopify.com/s/files/1/0575/1550/7905/files/nomisk.png?6526" /></a>
+
+<h1 class="visually-hidden">
+  Error - Payment
+</h1>
+
+
+                  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb breadcrumb--center" role="list">
+
+          <li class="breadcrumb__item breadcrumb__item--completed">
+          <a class="breadcrumb__link" href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=contact_information">Information</a>
+            <svg class="icon-svg icon-svg--color-adaptive-light icon-svg--size-10 breadcrumb__chevron-icon" aria-hidden="true" focusable="false"> <use xlink:href="#chevron-right" /> </svg>
+        </li>
+          <li class="breadcrumb__item breadcrumb__item--completed">
+          <a class="breadcrumb__link" href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=shipping_method">Shipping</a>
+            <svg class="icon-svg icon-svg--color-adaptive-light icon-svg--size-10 breadcrumb__chevron-icon" aria-hidden="true" focusable="false"> <use xlink:href="#chevron-right" /> </svg>
+        </li>
+          <li class="breadcrumb__item breadcrumb__item--current" aria-current="step">
+          <span class="breadcrumb__text">Payment</span>
+            <svg class="icon-svg icon-svg--color-adaptive-light icon-svg--size-10 breadcrumb__chevron-icon" aria-hidden="true" focusable="false"> <use xlink:href="#chevron-right" /> </svg>
+        </li>
+          <li class="breadcrumb__item breadcrumb__item--blank">
+          <span class="breadcrumb__text">Review</span>
+        </li>
+    </ol>
+  </nav>
+
+
+
+              
+                <div class="shown-if-js" data-alternative-payments>
+</div>
+
+
+
+          </header>
+          <main class="main__content" role="main">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script>(function() {
+  GoogleAnalyticsSandbox = window.GoogleAnlyticsSandbox || {};
+  GoogleAnalyticsSandbox.sandboxToken = "xzgTz8DSLuCwB4vUw0PKrw";
+})();
+</script>
+<iframe srcdoc="<script>(function() {
+  Shopify = window.Shopify || {};
+  Shopify.Checkout = window.Shopify.Checkout || {};
+  Shopify.Checkout.allowlistedUrls = [&quot;https:\/\/nomisk.myshopify.com&quot;,&quot;https:\/\/nomisk.com&quot;,&quot;https:\/\/www.nomisk.com&quot;,&quot;https:\/\/nomisk.account.myshopify.com&quot;,&quot;https:\/\/checkout.shopify.com&quot;];
+  Shopify.Checkout.allowlistedHostSuffixes = [&quot;-57515507905.shopifypreview.com&quot;];
+  GoogleAnalyticsSandbox = window.GoogleAnlyticsSandbox || {};
+  GoogleAnalyticsSandbox.sandboxToken = &quot;xzgTz8DSLuCwB4vUw0PKrw&quot;;
+})();
+</script>
+<script>!function(){var e=function(e){var t={exports:{}};return e.call(t.exports,t,t.exports),t.exports},o=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,&quot;value&quot;in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}(),s=function(e,t){if(!(e instanceof t))throw new TypeError(&quot;Cannot call a class as a function&quot;)},t=function(e){return e&&e.__esModule?e:{&quot;default&quot;:e}},a=e(function(e,t){&quot;use strict&quot;;function n(e){if(&quot;string&quot;!=typeof e)return!1;var t=e.indexOf(a);if(e.substring(0,t)!==s)return!1;var n=e.substring(t+1);return JSON.parse(n)}function i(e){return&quot;&quot;+s+a+JSON.stringify(e)}function r(t){if(!t||void 0===t)return!1;try{return Shopify.Checkout.allowlistedUrls&&-1!==Shopify.Checkout.allowlistedUrls.indexOf(t)||Shopify.Checkout.allowlistedHostSuffixes&&0<Shopify.Checkout.allowlistedHostSuffixes.filter(function(e){return new RegExp(&quot;(.*)&quot;+e+&quot;$&quot;).test(t)}).length}catch(e){return window.ErrorReporter&&window.ErrorReporter.notify(new Error(e.message),&quot;sandboxed_messages.js - verifiedOrigin&quot;),!1}}function o(){return GoogleAnalyticsSandbox?GoogleAnalyticsSandbox.sandboxToken:&quot;&quot;}Object.defineProperty(t,&quot;__esModule&quot;,{value:!0}),t.parseMessage=n,t.buildMessage=i,t.verifiedOrigin=r,t.getSandboxToken=o;var s=&quot;shopify_sandboxed_message&quot;,a=&quot;:&quot;}),n=e(function(e,t){&quot;use strict&quot;;Object.defineProperty(t,&quot;__esModule&quot;,{value:!0});var n=function(){function e(){var i=this;s(this,e),this.calls=[],window.ga=function(){for(var e=arguments.length,t=Array(e),n=0;n<e;n++)t[n]=arguments[n];return i.gaCall(t)}}return o(e,[{key:&quot;gaCall&quot;,value:function n(e){var t=this;this.calls.push(e),clearTimeout(this.timeout),this.timeout=setTimeout(function(){0<t.calls.length&&t.sendMessage()},0)}},{key:&quot;listen&quot;,value:function i(){var t=this;window.addEventListener(&quot;message&quot;,function(e){return t.receiveMessage(e)},!1)}},{key:&quot;sendMessage&quot;,value:function t(){window.parent.postMessage({type:&quot;analytics&quot;,calls:this.calls,sandboxToken:(0,a.getSandboxToken)()},this.origin),this.calls=[]}},{key:&quot;receiveMessage&quot;,value:function r(e){if((0,a.verifiedOrigin)(e.origin)&&e.source===window.parent&&e.data&&&quot;checkout_context&quot;===e.data.type){this.origin=e.origin,window.Shopify=e.data.Shopify,window.__st=e.data.__st;try{window.additionalScripts()}catch(t){console.error(&quot;User script error: &quot;,t)}}}}]),e}();t[&quot;default&quot;]=n});e(function(){&quot;use strict&quot;;(new(t(n)[&quot;default&quot;])).listen()})}(&quot;undefined&quot;!=typeof global?global:&quot;undefined&quot;!=typeof window&&window);
+window.additionalScripts = function () {
+  //Checkout steps for the Checkout Behavior report in Google Analytics
+var ShopifyCheckoutstep = Shopify.Checkout.step;
+switch (ShopifyCheckoutstep) {
+  case &quot;contact_information&quot;:
+    ga(&quot;require&quot;, &quot;ec&quot;);
+    ga(&quot;ec:setAction&quot;, &quot;checkout&quot;, {
+      &quot;step&quot;: 1,
+      &quot;option&quot;: &quot;contact_information&quot;
+    });
+    ga('send', 'event', 'checkout', 'contact information', { nonInteraction: true });
+      break; 
+  case &quot;shipping_method&quot;:
+    ga(&quot;require&quot;, &quot;ec&quot;);
+    ga(&quot;ec:setAction&quot;, &quot;checkout&quot;, {
+      &quot;step&quot;: 2,
+      &quot;option&quot;: &quot;shipping_method&quot;
+    });
+    ga('send', 'event', 'checkout', 'shipping method', { nonInteraction: true });
+      break; 
+  case &quot;payment_method&quot;:
+    ga(&quot;require&quot;, &quot;ec&quot;);
+    ga(&quot;ec:setAction&quot;, &quot;checkout&quot;, {
+      &quot;step&quot;: 3,
+      &quot;option&quot;: &quot;payment_method&quot;
+    });
+    ga('send', 'event', 'checkout', 'payment', { nonInteraction: true });
+};
+};
+</script>" src="https://checkout.shopify.com/57515507905/sandbox/google_analytics_iframe?sandbox_token=xzgTz8DSLuCwB4vUw0PKrw" onload="this.setAttribute(&#39;data-loaded&#39;, true)" sandbox="allow-scripts" id="google-analytics-sandbox" tabIndex="-1" class="visually-hidden" style="display:none" aria-hidden="true"></iframe>
+
+  <div class="step" data-step="review">
+    
+
+  <div class="step__sections">
+    <div class="section">
+      <div class="section__header">
+        <div class="layout-flex layout-flex--tight-vertical layout-flex--loose-horizontal layout-flex--wrap">
+          <h2 class="section__title layout-flex__item layout-flex__item--stretch" id="main-header" tabindex="-1">
+            Review order
+          </h2>
+
+        </div>
+
+      </div>
+
+      <div class="section__content">
+        <div class="content-box">
+          <div role="table" class="content-box__row">
+            <div role="row" class="review-block">
+  <div class="review-block__inner">
+    <div role="rowheader" class="review-block__label">
+      Contact
+    </div>
+    <div role="cell" class="review-block__content">
+      <bdo dir="ltr">abhays32109@gmail.com</bdo>
+    </div>
+  </div>
+    <div role="cell" class="review-block__link">
+      <a class="link--small" href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=contact_information">
+        <span aria-hidden="true">Change</span>
+        <span class="visually-hidden">Change contact information</span>
+</a>    </div>
+</div>
+
+
+              
+<div role="row" class="review-block">
+  <div class="review-block__inner">
+    <div role="rowheader" class="review-block__label">
+      Ship to
+    </div>
+    <div role="cell" class="review-block__content">
+        <address class="address">
+          Jack Coddrey<br />gardenia drive 6767<br />San Jose CA 92055<br />United States<br />‎(425) 374-2724
+        </address>
+    </div>
+  </div>
+      <div role="cell" class="review-block__link">
+        <a class="link--small" href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=contact_information">
+          <span aria-hidden="true">Change</span>
+          <span class="visually-hidden">Change shipping address</span>
+</a>      </div>
+</div>
+
+
+              
+<div role="row" class="review-block">
+  <div class="review-block__inner">
+    <div role="rowheader" class="review-block__label">
+      Method
+    </div>
+    <div role="cell" class="review-block__content" data-review-section="shipping-cost">
+        Standard (1-5 business days)
+        ·
+        <strong class="emphasis">
+          <span class="skeleton-while-loading--inline">Free</span>
+        </strong>
+
+        <p class="small-text">
+          No other methods available
+        </p>
+    </div>
+  </div>
+</div>
+
+
+              <div role="row" class="review-block">
+  <div class="review-block__inner">
+    <div role="rowheader" class="review-block__label">
+      Payment
+    </div>
+    <div role="cell" class="review-block__content">
+      <ul class="payment-method-list">
+        <li class="payment-method-list__item">
+    <i class="payment-icon payment-icon--visa payment-method-list__item-icon">
+      <span class="visually-hidden">Visa</span>
+</i>    <span class="payment-method-list__item__info">ending with 4522</span>
+</li>
+
+
+      </ul>
+        <address class="address small-text review-block__billing-address">
+          gardenia drive 6767, San Jose CA 92055, United States
+        </address>
+    </div>
+  </div>
+    <div role="cell" class="review-block__link">
+      <a href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=payment_method">
+        <span aria-hidden="true">Change</span>
+        <span class="visually-hidden">Change payment method</span>
+</a>    </div>
+</div>
+
+
+          </div>
+        </div>
+
+        <div class="content-box">
+          <div class="content-box__row" data-review-section="payment-lines">
+            <table class="total-line-table">
+  <caption class="visually-hidden">Cost summary</caption>
+  <thead>
+    <tr>
+      <th scope="col"><span class="visually-hidden">Description</span></th>
+      <th scope="col"><span class="visually-hidden">Price</span></th>
+    </tr>
+  </thead>
+    <tbody class="total-line-table__tbody">
+      <tr class="total-line total-line--subtotal">
+  <th class="total-line__name" scope="row">Subtotal</th>
+  <td class="total-line__price">
+    <span class="order-summary__emphasis skeleton-while-loading" data-checkout-subtotal-price-target="9900">
+      $99.00
+    </span>
+  </td>
+</tr>
+
+
+
+        <tr class="total-line total-line--shipping">
+  <th class="total-line__name" scope="row">
+      <span>
+        Shipping
+      </span>
+
+  </th>
+  <td class="total-line__price">
+    <span class="skeleton-while-loading order-summary__emphasis" data-checkout-total-shipping-target="0">
+      Free
+    </span>
+  </td>
+</tr>
+
+
+
+        <tr class="total-line total-line--taxes hidden" data-checkout-taxes>
+  <th class="total-line__name" scope="row">Estimated taxes</th>
+  <td class="total-line__price">
+    <span class="order-summary__emphasis skeleton-while-loading" data-checkout-total-taxes-target="0">$0.00</span>
+  </td>
+</tr>
+
+
+      
+    </tbody>
+  <tfoot class="total-line-table__footer">
+    <tr class="total-line">
+      <th class="total-line__name payment-due-label" scope="row">
+        <span class="payment-due-label__total">Total</span>
+      </th>
+      <td class="total-line__price payment-due" data-presentment-currency="USD">
+        <span class="payment-due__currency remove-while-loading">USD</span>
+        <span class="payment-due__price skeleton-while-loading--lg" data-checkout-payment-due-target="9900">
+          $99.00
+        </span>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <form class="edit_checkout" action="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="hKYwzhlxge0cDIGCDuhxgBFgVJHKrihymenEJMwf9MbRORTWe2KQ4jp6ekWGXpt7uPiv4rsaWLJ2JPruMQjdeQ" autocomplete="off" />
+    <div class="step__footer" data-step-footer>
+
+    <div class="shown-if-js">
+      <button name="button" type="submit" id="continue_button" class="step__footer__continue-btn btn" aria-busy="false"><span class="btn__content" data-continue-button-content="true">Review order</span><svg class="icon-svg icon-svg--size-18 btn__spinner icon-svg--spinner-button" aria-hidden="true" focusable="false"> <use xlink:href="#spinner-button" /> </svg></button>
+      <p class="content-box__small-text step__footer__continue-btn-text">You won&#39;t be charged yet</p>
+    </div>
+     <div class="hidden-if-js">
+      <button name="button" type="submit" id="continue_button" class="step__footer__continue-btn btn" aria-busy="false"><span class="btn__content" data-continue-button-content="true">Continue to payment</span><svg class="icon-svg icon-svg--size-18 btn__spinner icon-svg--spinner-button" aria-hidden="true" focusable="false"> <use xlink:href="#spinner-button" /> </svg></button>
+    </div>
+  <a class="step__footer__previous-link" href="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3?step=shipping_method"><svg focusable="false" aria-hidden="true" class="icon-svg icon-svg--color-accent icon-svg--size-10 previous-link__icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M8 1L7 0 3 4 2 5l1 1 4 4 1-1-4-4"/></svg><span class="step__footer__previous-link-content">Return to shipping</span></a>
+</div>
+
+</form>
+</div>
+
+
+  <div class="hidden">
+  <span class="visually-hidden" id="forwarding-external-new-window-message">
+    Opens external website in a new window.
+  </span>
+
+  <span class="visually-hidden" id="forwarding-new-window-message">
+    Opens in a new window.
+  </span>
+
+  <span class="visually-hidden" id="forwarding-external-message">
+    Opens external website.
+  </span>
+
+  <span class="visually-hidden" id="checkout-context-step-one">
+    Customer information - Nomisk - Checkout
+  </span>
+</div>
+
+
+
+
+          </main>
+          <footer class="main__footer" role="contentinfo">
+                <ul class="policy-list" role="list">
+      <li class="policy-list__item ">
+        <a aria-haspopup="dialog" data-modal="policy-refund-policy" data-title-text="Refund policy" data-close-text="Close" data-iframe="true" href="/57515507905/policies/refund-policy.html?locale=en-IN">Refund policy</a>
+      </li>
+      <li class="policy-list__item ">
+        <a aria-haspopup="dialog" data-modal="policy-shipping-policy" data-title-text="Shipping policy" data-close-text="Close" data-iframe="true" href="/57515507905/policies/shipping-policy.html?locale=en-IN">Shipping policy</a>
+      </li>
+      <li class="policy-list__item ">
+        <a aria-haspopup="dialog" data-modal="policy-privacy-policy" data-title-text="Privacy policy" data-close-text="Close" data-iframe="true" href="/57515507905/policies/privacy-policy.html?locale=en-IN">Privacy policy</a>
+      </li>
+      <li class="policy-list__item ">
+        <a aria-haspopup="dialog" data-modal="policy-terms-of-service" data-title-text="Terms of service" data-close-text="Close" data-iframe="true" href="/57515507905/policies/terms-of-service.html?locale=en-IN">Terms of service</a>
+      </li>
+  </ul>
+  
+  
+
+
+          </footer>
+        </div>
+        <aside class="sidebar" role="complementary">
+          <div class="sidebar__header">
+              
+  <a class="logo logo--center" href="https://nomisk.com/"><img alt="Nomisk" class="logo__image logo__image--small" src="//cdn.shopify.com/s/files/1/0575/1550/7905/files/nomisk.png?6526" /></a>
+
+<h1 class="visually-hidden">
+  Error - Payment
+</h1>
+
+
+          </div>
+          <div class="sidebar__content">
+                <div id="order-summary" class="order-summary order-summary--is-collapsed" data-order-summary>
+  <h2 class="visually-hidden-if-js">Order summary</h2>
+
+  <div class="order-summary__sections">
+    <div class="order-summary__section order-summary__section--product-list">
+  <div class="order-summary__section__content">
+    <table class="product-table">
+      <caption class="visually-hidden">Shopping cart</caption>
+      <thead class="product-table__header">
+        <tr>
+          <th scope="col"><span class="visually-hidden">Product image</span></th>
+          <th scope="col"><span class="visually-hidden">Description</span></th>
+          <th scope="col"><span class="visually-hidden">Quantity</span></th>
+          <th scope="col"><span class="visually-hidden">Price</span></th>
+        </tr>
+      </thead>
+      <tbody data-order-summary-section="line-items">
+        <tr class="product" data-product-id="7597828407489" data-variant-id="42544533176513" data-product-type="Heating Pads" data-customer-ready-visible>
+          <td class="product__image">
+            <div class="product-thumbnail ">
+  <div class="product-thumbnail__wrapper">
+    <img alt="Maia for Period Cramps" class="product-thumbnail__image" src="//cdn.shopify.com/s/files/1/0575/1550/7905/products/maia_1-min_c3b36be1-6536-4aca-a4fb-2fec38a4417f_small.jpg?v=1680611255" />
+  </div>
+    <span class="product-thumbnail__quantity" aria-hidden="true">1</span>
+</div>
+
+          </td>
+          <th class="product__description" scope="row">
+            <span class="product__description__name order-summary__emphasis">Maia for Period Cramps</span>
+            <span class="product__description__variant order-summary__small-text"></span>
+
+          </th>
+          <td class="product__quantity">
+            <span class="visually-hidden">
+              1
+            </span>
+          </td>
+          <td class="product__price">
+              <span class="order-summary__emphasis skeleton-while-loading">$99.00</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="order-summary__scroll-indicator" aria-hidden="true" tabindex="-1" id="order-summary__scroll-indicator">
+      Scroll for more items
+      <svg aria-hidden="true" focusable="false" class="icon-svg icon-svg--size-12"> <use xlink:href="#down-arrow" /> </svg>
+    </div>
+  </div>
+</div>
+
+
+      <div class="order-summary__section order-summary__section--discount" data-reduction-form="update">
+        <h3 class="visually-hidden">Gift card or discount code</h3>
+        <form class="edit_checkout" action="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="qiEnsOgL2o2490TUqyssProz_st0qwaVbIJRyISH5Yj_vgOoihjLgp6BvxMjncbFE6sFuAUfdlWDT28CeZDMNw" autocomplete="off" />
+  <input type="hidden" name="step" value="payment_method" autocomplete="off" />
+</form>
+<form class="edit_checkout" action="/57515507905/checkouts/82edc3c667d458a07b5b895f3e507ed3" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="fIwra-vAc2Knskff7KCL8TGocPyYgZDkgjE_V1F52wopEw9zidNibYHEvBhkFmEKmDCLj-k14CRt_AGdrG7ytQ" autocomplete="off" />
+  <input type="hidden" name="step" value="payment_method" autocomplete="off" />
+  <div class="fieldset">
+    <div class="field ">
+      <label class="field__label" for="checkout_reduction_code">Gift card or discount code</label>
+      <div class="field__input-btn-wrapper">
+        <div class="field__input-wrapper">
+          <input placeholder="Gift card or discount code" class="field__input" id="checkout_reduction_code" data-discount-field="true" autocomplete="off" aria-required="true" size="30" type="text" name="checkout[reduction_code]" />
+        </div>
+
+        <button name="checkout[submit]" type="submit" id="checkout_submit" class="field__input-btn btn btn--disabled" aria-busy="false">
+              <span class="btn__content visually-hidden-on-mobile" aria-hidden="true">
+                Apply
+              </span>
+              <span class="visually-hidden">
+                Apply Discount Code
+              </span>
+              <svg class="icon-svg icon-svg--size-16 btn__icon shown-on-mobile" aria-hidden="true" focusable="false"> <use xlink:href="#arrow" /> </svg>
+              <svg class="icon-svg icon-svg--size-18 btn__spinner icon-svg--spinner-button" aria-hidden="true" focusable="false"> <use xlink:href="#spinner-button" /> </svg>
+</button>      </div>
+
+    </div>
+  </div>
+</form>
+
+      </div>
+
+    <div class="order-summary__section order-summary__section--total-lines" data-order-summary-section="payment-lines">
+      <table class="total-line-table">
+  <caption class="visually-hidden">Cost summary</caption>
+  <thead>
+    <tr>
+      <th scope="col"><span class="visually-hidden">Description</span></th>
+      <th scope="col"><span class="visually-hidden">Price</span></th>
+    </tr>
+  </thead>
+    <tbody class="total-line-table__tbody">
+      <tr class="total-line total-line--subtotal">
+  <th class="total-line__name" scope="row">Subtotal</th>
+  <td class="total-line__price">
+    <span class="order-summary__emphasis skeleton-while-loading" data-checkout-subtotal-price-target="9900">
+      $99.00
+    </span>
+  </td>
+</tr>
+
+
+
+        <tr class="total-line total-line--shipping">
+  <th class="total-line__name" scope="row">
+      <span>
+        Shipping
+      </span>
+
+  </th>
+  <td class="total-line__price">
+    <span class="skeleton-while-loading order-summary__emphasis" data-checkout-total-shipping-target="0">
+      Free
+    </span>
+  </td>
+</tr>
+
+
+
+        <tr class="total-line total-line--taxes hidden" data-checkout-taxes>
+  <th class="total-line__name" scope="row">Estimated taxes</th>
+  <td class="total-line__price">
+    <span class="order-summary__emphasis skeleton-while-loading" data-checkout-total-taxes-target="0">$0.00</span>
+  </td>
+</tr>
+
+
+      
+    </tbody>
+  <tfoot class="total-line-table__footer">
+    <tr class="total-line">
+      <th class="total-line__name payment-due-label" scope="row">
+        <span class="payment-due-label__total">Total</span>
+      </th>
+      <td class="total-line__price payment-due" data-presentment-currency="USD">
+        <span class="payment-due__currency remove-while-loading">USD</span>
+        <span class="payment-due__price skeleton-while-loading--lg" data-checkout-payment-due-target="9900">
+          $99.00
+        </span>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+    </div>
+  </div>
+</div>
+
+<div class="visually-hidden" data-order-summary-section="accessibility-live-region">
+  <div aria-live="polite" aria-atomic="true" role="status">
+    Updated total price:
+    <span data-checkout-payment-due-target="9900">
+      $99.00
+    </span>
+  </div>
+</div>
+
+
+  <div id="partial-icon-symbols" class="icon-symbols" data-tg-refresh="partial-icon-symbols" data-tg-refresh-always="true"><svg xmlns="http://www.w3.org/2000/svg"><symbol id="spinner-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M20 10c0 5.523-4.477 10-10 10S0 15.523 0 10 4.477 0 10 0v2c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8h2z"/></svg></symbol>
+<symbol id="chevron-right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M2 1l1-1 4 4 1 1-1 1-4 4-1-1 4-4"/></svg></symbol>
+<symbol id="down-arrow"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path d="M10.817 7.624l-4.375 4.2c-.245.235-.64.235-.884 0l-4.375-4.2c-.244-.234-.244-.614 0-.848.245-.235.64-.235.884 0L5.375 9.95V.6c0-.332.28-.6.625-.6s.625.268.625.6v9.35l3.308-3.174c.122-.117.282-.176.442-.176.16 0 .32.06.442.176.244.234.244.614 0 .848"/></svg></symbol>
+<symbol id="arrow"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M16 8.1l-8.1 8.1-1.1-1.1L13 8.9H0V7.3h13L6.8 1.1 7.9 0 16 8.1z"/></svg></symbol>
+<symbol id="mobile-phone"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 2.99C5 1.34 6.342 0 8.003 0h7.994C17.655 0 19 1.342 19 2.99v18.02c0 1.65-1.342 2.99-3.003 2.99H8.003C6.345 24 5 22.658 5 21.01V2.99zM7 5c0-.552.456-1 .995-1h8.01c.55 0 .995.445.995 1v14c0 .552-.456 1-.995 1h-8.01C7.445 20 7 19.555 7 19V5zm5 18c.552 0 1-.448 1-1s-.448-1-1-1-1 .448-1 1 .448 1 1 1z" fill-rule="evenodd"/></svg></symbol>
+<symbol id="close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M15.1 2.3L13.7.9 8 6.6 2.3.9.9 2.3 6.6 8 .9 13.7l1.4 1.4L8 9.4l5.7 5.7 1.4-1.4L9.4 8"/></svg></symbol>
+<symbol id="spinner-small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0v2C8.268 2 2 8.268 2 16s6.268 14 14 14 14-6.268 14-14h2z"/></svg></symbol></svg></div>
+
+
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <script id="evids-setup">
+  (function () {let t,e;function n(){t={page_viewed:{},collection_viewed:{},product_viewed:{},product_variant_viewed:{},search_submitted:{},product_added_to_cart:{},checkout_started:{},checkout_completed:{},payment_info_submitted:{}},e={wpm:{},trekkie:{}}}function o(t){return`${t||"sh"}-${function(){const t="xxxx-4xxx-xxxx-xxxxxxxxxxxx";let e="";try{const n=window.crypto,o=new Uint16Array(31);n.getRandomValues(o);let r=0;e=t.replace(/[x]/g,(t=>{const e=o[r]%16;return r++,("x"===t?e:3&e|8).toString(16)})).toUpperCase()}catch(n){e=t.replace(/[x]/g,(t=>{const e=16*Math.random()|0;return("x"===t?e:3&e|8).toString(16)})).toUpperCase()}return`${function(){let t=0,e=0;t=(new Date).getTime()>>>0;try{e=performance.now()>>>0}catch(t){e=0}const n=Math.abs(t+e).toString(16).toLowerCase();return"00000000".substr(0,8-n.length)+n}()}-${e}`}()}`}function r(n,r){if(!t[n]||"trekkie"!==(null==r?void 0:r.analyticsFramework)&&"wpm"!==(null==r?void 0:r.analyticsFramework))return o("shu");const i="string"==typeof(c=r.cacheKey)&&c?c:"default";var c;const a=function(t,n,o){const r=e[n];return void 0===r[t]&&(r[t]={}),void 0===r[t][o]?r[t][o]=0:r[t][o]+=1,r[t][o]}(n,r.analyticsFramework,i);return function(e,n,r){const i=t[e];if(void 0===i[r]){const t=o();i[r]=[t]}else if(void 0===i[r][n]){const t=o();i[r].push(t)}return i[r][n]}(n,a,i)}function i(){window.Shopify=window.Shopify||{},n(),window.Shopify.evids=(t,e)=>r(t,e)}i();})();
+</script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+        document.body.addEventListener("GoogleAnalyticsEvent", function() {
+        window.GoogleAnalyticsAdditionalScripts.executeAdditionalScripts()
+      });
+      if (window.GoogleAnalyticsAdditionalScripts) {
+        window.GoogleAnalyticsAdditionalScripts.executeAdditionalScripts()
+      }
+
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_checkout_load_errors/1.1',
+      {shop_id: 57515507905,
+      theme_id: 132829085889,
+      app_name: "checkout",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.bf49faf0d34cf7aec6c9870eb470f25b50d18490.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.bf49faf0d34cf7aec6c9870eb470f25b50d18490.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.bf49faf0d34cf7aec6c9870eb470f25b50d18490.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"checkout","development":false,"defaultAttributes":{"shopId":57515507905,"isMerchantRequest":null,"themeId":132829085889,"themeCityHash":"14263356880539269905","contentLanguage":"en","currency":"USD","checkoutToken":"82edc3c667d458a07b5b895f3e507ed3"},"isServerSideCookieWritingEnabled":true,"enabledBetaFlags":[],"monorailRegion":"shop_domain"},"Google Analytics":{"trackingId":"UA-192788082-3","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["610482836648637"],"agent":"plshopify1.2"},"Pinterest Pixel":{"pixelId":"2613633359579"},"TikTok Pixel":{"pixelId":"CC47MPJC77UE9SNKGOG0"},"Google Gtag Pixel":{"conversionId":"G-B87VV125X7","eventLabels":[{"type":"begin_checkout","action_label":["G-B87VV125X7","AW-10785487293\/xWf9CPqD1v0CEL3z9ZYo"]},{"type":"search","action_label":["G-B87VV125X7","AW-10785487293\/V-v2CP2D1v0CEL3z9ZYo"]},{"type":"view_item","action_label":["G-B87VV125X7","AW-10785487293\/FJUhCPSD1v0CEL3z9ZYo"]},{"type":"purchase","action_label":["G-B87VV125X7","AW-10785487293\/_UtYCPGD1v0CEL3z9ZYo"]},{"type":"page_view","action_label":["G-B87VV125X7","AW-10785487293\/tEpJCO6D1v0CEL3z9ZYo"]},{"type":"add_payment_info","action_label":["G-B87VV125X7","AW-10785487293\/Sq9XCICE1v0CEL3z9ZYo"]},{"type":"add_to_cart","action_label":["G-B87VV125X7","AW-10785487293\/59A8CPeD1v0CEL3z9ZYo"]}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"cartApiClientId":580111,"facebookAppPixelId":"610482836648637","source":"trekkie-checkout-classic"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script id="web-pixels-manager-setup">(function e(e,n,a,o,t,r){var i=null!==e;i&&(window.Shopify=window.Shopify||{},window.Shopify.analytics=window.Shopify.analytics||{},window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=function(e,n,a){window.Shopify.analytics.replayQueue.push([e,n,a])});var s=function(){var e="legacy",n="unknown",a=null,o=navigator.userAgent.match(/(Firefox|Chrome)\/(\d+)/i),t=navigator.userAgent.match(/(Edg)\/(\d+)/i),r=navigator.userAgent.match(/(Version)\/(\d+)(.+)(Safari)\/(\d+)/i);r?(n="safari",a=parseInt(r[2],10)):t?(n="edge",a=parseInt(t[2],10)):o&&(n=o[1].toLocaleLowerCase(),a=parseInt(o[2],10));var i={chrome:60,firefox:55,safari:11,edge:80}[n];return void 0!==i&&null!==a&&i<=a&&(e="modern"),e}().substring(0,1),l=o.substring(0,1);if(i)try{self.performance.mark("wpm:start")}catch(e){}var d,c,u,p,f,h,w,y,g=a+"/"+l+r+s+".js";d={src:g,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);n(a),window.Shopify.analytics.replayQueue.forEach((function(e){a.publishCustomEvent(e[0],e[1],e[2])})),window.Shopify.analytics.replayQueue=[],window.Shopify.analytics.publish=a.publishCustomEvent}},onerror:function(){var n=(e.storefrontBaseUrl?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin)+"/.well-known/shopify/monorail/unstable/produce_batch",a=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:g+" has failed to load"},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(n,a))return!0}catch(e){}const o=new XMLHttpRequest;try{return o.open("POST",n,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(a),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}},c=document.createElement("script"),u=d.src,p=d.async||!0,f=d.onload,h=d.onerror,w=document.head,y=document.body,c.async=p,c.src=u,f&&c.addEventListener("load",f),h&&c.addEventListener("error",h),w?w.appendChild(c):y?y.appendChild(c):console.error("Did not find a head or body element to append the script")})({shopId: 57515507905,storefrontBaseUrl: "https://nomisk.com",cdnBaseUrl: "https://cdn.shopify.com",surface: "shopify",enabledBetaFlags: ["web_pixels_use_shop_domain_monorail_endpoint"],webPixelExtensionBaseUrl: "https://cdn.shopify.com",webPixelsConfigList: [{"id":"shopify-app-pixel","idTmp":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0535","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","idTmp":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0535","apiClientId":"shopify-pixel","type":"CUSTOM"},{"id":"5636289","idTmp":"5636289","configuration":"{\"pixelId\":\"baca9c93-8fd7-4688-aa23-94cab9d2a338\"}","eventPayloadVersion":"v1","runtimeContext":"strict","scriptVersion":"0.5.0-7c4156ff53fad70ce2220c9f452655bb","type":"APP","apiClientId":"2556259"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":null},},function pageEvents(webPixelsManagerAPI) {},"https://cdn.shopify.com","browser","0.0.291","27ebbe9cwc6551374p82226fa4m8497296f");</script>
+  </body>
+</html>
